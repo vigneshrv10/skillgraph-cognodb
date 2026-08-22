@@ -269,6 +269,14 @@ Be ready to explain:
 
 - why `Skill` and `Role` are nodes
 - why `REQUIRES` and `BUILDS_ON` are relationships
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c3ff563-369d-4677-adaa-f06199ba3394" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2914c428-42e3-4c56-9757-693e83d323aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/674248fc-4a25-4e07-9bd1-0cc9ac2cf3df" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87811171-0ed5-4cc8-b941-0a00db0d2b7b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c38a212a-0c34-484f-9b9c-b0153542f34f" />
+
 - why the path query is a graph problem
 - how Bolt works with the Neo4j driver
 - why parameters are used
